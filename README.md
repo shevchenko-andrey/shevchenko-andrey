@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shevchenko-andrey
+- 👀 I’m interested in html css js react.js node.js
+- 🌱 I’m currently learning  IT college
+- 💞️ I’m looking to collaborate on website development
+- 📫 How to reach me andreases_mobimoz@ukr.net
